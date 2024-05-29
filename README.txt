@@ -1,0 +1,1 @@
+Essas são algumas etapas de um projeto de banco de dados que, infelizmente, não consegui concluir. Trata-se da organização de navios em um porto. Infelizmente, não está completo, mas planejo terminá-lo em breve.
